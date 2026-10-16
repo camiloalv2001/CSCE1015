@@ -4,3 +4,4 @@ Assignment repository for UNT CSCE1015
 ca0930
 ## Favorite Professor
 $(Dr_Kawamura)
+Dr. Kawamura
