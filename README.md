@@ -3,5 +3,4 @@ Assignment repository for UNT CSCE1015
 ## EUID
 ca0930
 ## Favorite Professor
-$(Dr_Kawamura)
 Dr. Kawamura
